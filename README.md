@@ -1,1 +1,2 @@
 # tinykite
+Exploring github
